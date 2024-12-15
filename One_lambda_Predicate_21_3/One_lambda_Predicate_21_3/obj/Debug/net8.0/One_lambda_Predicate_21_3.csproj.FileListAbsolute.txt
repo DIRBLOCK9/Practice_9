@@ -1,0 +1,14 @@
+C:\Users\turlo\source\repos\One_lambda_Predicate_21_3\One_lambda_Predicate_21_3\bin\Debug\net8.0\One_lambda_Predicate_21_3.exe
+C:\Users\turlo\source\repos\One_lambda_Predicate_21_3\One_lambda_Predicate_21_3\bin\Debug\net8.0\One_lambda_Predicate_21_3.deps.json
+C:\Users\turlo\source\repos\One_lambda_Predicate_21_3\One_lambda_Predicate_21_3\bin\Debug\net8.0\One_lambda_Predicate_21_3.runtimeconfig.json
+C:\Users\turlo\source\repos\One_lambda_Predicate_21_3\One_lambda_Predicate_21_3\bin\Debug\net8.0\One_lambda_Predicate_21_3.dll
+C:\Users\turlo\source\repos\One_lambda_Predicate_21_3\One_lambda_Predicate_21_3\bin\Debug\net8.0\One_lambda_Predicate_21_3.pdb
+C:\Users\turlo\source\repos\One_lambda_Predicate_21_3\One_lambda_Predicate_21_3\obj\Debug\net8.0\One_lambda_Predicate_21_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turlo\source\repos\One_lambda_Predicate_21_3\One_lambda_Predicate_21_3\obj\Debug\net8.0\One_lambda_Predicate_21_3.AssemblyInfoInputs.cache
+C:\Users\turlo\source\repos\One_lambda_Predicate_21_3\One_lambda_Predicate_21_3\obj\Debug\net8.0\One_lambda_Predicate_21_3.AssemblyInfo.cs
+C:\Users\turlo\source\repos\One_lambda_Predicate_21_3\One_lambda_Predicate_21_3\obj\Debug\net8.0\One_lambda_Predicate_21_3.csproj.CoreCompileInputs.cache
+C:\Users\turlo\source\repos\One_lambda_Predicate_21_3\One_lambda_Predicate_21_3\obj\Debug\net8.0\One_lambda_Predicate_21_3.dll
+C:\Users\turlo\source\repos\One_lambda_Predicate_21_3\One_lambda_Predicate_21_3\obj\Debug\net8.0\refint\One_lambda_Predicate_21_3.dll
+C:\Users\turlo\source\repos\One_lambda_Predicate_21_3\One_lambda_Predicate_21_3\obj\Debug\net8.0\One_lambda_Predicate_21_3.pdb
+C:\Users\turlo\source\repos\One_lambda_Predicate_21_3\One_lambda_Predicate_21_3\obj\Debug\net8.0\One_lambda_Predicate_21_3.genruntimeconfig.cache
+C:\Users\turlo\source\repos\One_lambda_Predicate_21_3\One_lambda_Predicate_21_3\obj\Debug\net8.0\ref\One_lambda_Predicate_21_3.dll

@@ -1,0 +1,14 @@
+C:\Users\turlo\source\repos\Block_lambda_21_4\Block_lambda_21_4\bin\Debug\net8.0\Block_lambda_21_4.exe
+C:\Users\turlo\source\repos\Block_lambda_21_4\Block_lambda_21_4\bin\Debug\net8.0\Block_lambda_21_4.deps.json
+C:\Users\turlo\source\repos\Block_lambda_21_4\Block_lambda_21_4\bin\Debug\net8.0\Block_lambda_21_4.runtimeconfig.json
+C:\Users\turlo\source\repos\Block_lambda_21_4\Block_lambda_21_4\bin\Debug\net8.0\Block_lambda_21_4.dll
+C:\Users\turlo\source\repos\Block_lambda_21_4\Block_lambda_21_4\bin\Debug\net8.0\Block_lambda_21_4.pdb
+C:\Users\turlo\source\repos\Block_lambda_21_4\Block_lambda_21_4\obj\Debug\net8.0\Block_lambda_21_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turlo\source\repos\Block_lambda_21_4\Block_lambda_21_4\obj\Debug\net8.0\Block_lambda_21_4.AssemblyInfoInputs.cache
+C:\Users\turlo\source\repos\Block_lambda_21_4\Block_lambda_21_4\obj\Debug\net8.0\Block_lambda_21_4.AssemblyInfo.cs
+C:\Users\turlo\source\repos\Block_lambda_21_4\Block_lambda_21_4\obj\Debug\net8.0\Block_lambda_21_4.csproj.CoreCompileInputs.cache
+C:\Users\turlo\source\repos\Block_lambda_21_4\Block_lambda_21_4\obj\Debug\net8.0\Block_lambda_21_4.dll
+C:\Users\turlo\source\repos\Block_lambda_21_4\Block_lambda_21_4\obj\Debug\net8.0\refint\Block_lambda_21_4.dll
+C:\Users\turlo\source\repos\Block_lambda_21_4\Block_lambda_21_4\obj\Debug\net8.0\Block_lambda_21_4.pdb
+C:\Users\turlo\source\repos\Block_lambda_21_4\Block_lambda_21_4\obj\Debug\net8.0\Block_lambda_21_4.genruntimeconfig.cache
+C:\Users\turlo\source\repos\Block_lambda_21_4\Block_lambda_21_4\obj\Debug\net8.0\ref\Block_lambda_21_4.dll
